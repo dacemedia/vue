@@ -110,7 +110,7 @@ var imageSlider = new Swiper('.image-slider', {
 		// when window is <= 1199px
 		1199: {
 			slidesPerView: 4,
-			spaceBetween: 20
+			spaceBetween: 21
 		},
 
 	}
